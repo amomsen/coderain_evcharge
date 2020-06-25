@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EV Charge</string>
+    <string name="menu_logout">Log out</string>
+    <string name="settings">Settings</string>
+</resources>

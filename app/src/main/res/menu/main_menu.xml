@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_logout"
+        android:title="@string/menu_logout"/>
+    <item android:id="@+id/menu_buycredit"
+        android:title="Buy Credit"/>
+    <item android:id="@+id/menu_stats"
+        android:title="Statistics"/>
+    <item android:id="@+id/menu_version"
+        android:title="Version"/>
+
+</menu>
